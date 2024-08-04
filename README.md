@@ -31,7 +31,7 @@ We welcome contributions from the community! If you have an idea for a new featu
 
 ## License ⚖️
 
-ModelNest is released under the [MIT License](LICENSE).
+ModelNest is released under the [License](LICENSE).
 
 ## Contact 💬
 
