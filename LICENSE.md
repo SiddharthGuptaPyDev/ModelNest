@@ -12,5 +12,8 @@ You may not:
 ## Termination
 This license will terminate automatically if you violate any of the terms outlined herein. Upon termination, you must cease all use of the software and delete all copies from your devices.
 
+## Legal Action
+In the event of a violation of this license agreement, the licensor reserves the right to take legal action against the violator. This may include seeking injunctive relief, damages, and any other remedies available under applicable law.
+
 ## Acceptance
 By using this software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Personal Use License Agreement.
