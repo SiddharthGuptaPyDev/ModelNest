@@ -15,5 +15,8 @@ This license will terminate automatically if you violate any of the terms outlin
 ## Legal Action
 In the event of a violation of this license agreement, the licensor reserves the right to take legal action against the violator. This may include seeking injunctive relief, damages, and any other remedies available under applicable law.
 
+## Contribution
+If you want to contribute to this open-source project, you have only one option which is through GitHub contribution, if you find other ways then those are fully fake and not approved by Modelnest.
+
 ## Acceptance
 By using this software, you acknowledge that you have read, understood, and agree to be bound by the terms of this Personal Use License Agreement.
