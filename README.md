@@ -4,18 +4,17 @@ ModelNest is a powerful and user-friendly software that allows you to effortless
 
 ## Features 🦾
 
-- **Seamless Ollama List**: See your models' list seamlessly on the terminal.
-- **Easy Edit**: You can easily edit the ollama environment by removing, installing, and knowing the details of a model of Ollama.
+- **Seamless Ollama List**: See your models' list seamlessly with heavy info.
+- **Easy Edit**: You can easily edit the Ollama environment by removing, and knowing the details of a model of Ollama.
 - **Developers' help**: Helps developers to get heavy details of a model for building their AI apps perfectly.
 - **Comprehensive Model Analysis**: Gain in-depth insights into the architecture, parameters, and quantization of your Ollama models.
 - **Interactive Visualizations**: Explore your models through stunning visualizations that bring the data to life.
-- **Customizable Reports**: Generate detailed reports tailored to your specific needs, allowing you to share your findings with ease.
 
 ## Getting Started 💨
 
-1. **Download ModelNest**: Download the latest version of ModelNest installer from the repo.
+1. **Download ModelNest**: Download the latest version of the ModelNest installer from the latest release.
 2. **Install ModelNest**: Start the installer for installing ModelNest.
-3. **Ready**: You're ready to go now! Type modelnest in your terminal.
+3. **Ready**: You're ready to go now! Launch the modelnest through the shortcut.
 
 ## Documentation 📖
 
@@ -23,11 +22,11 @@ For detailed instructions and tutorials, please visit our comprehensive document
 
 ## Support 🚀
 
-Need help or have a question? Our dedicated support team is here to assist you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through our online support portal.
+Need help or have a question? Our dedicated support team is here to assist you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through GitHub issues.
 
 ## Contribute 🤝
 
-We welcome contributions from the community! If you have an idea for a new feature, have found a bug, or would like to contribute code, please visit our GitHub repository at [github.com/SiddharthGuptaPyDev/modelnest](https://github.com/SiddharthGuptaPyDev/ModelNest/).
+We welcome contributions from the community! If you have an idea for a new feature, have found a bug, would like to contribute code, or want to help as a support to our users, please visit our GitHub repo's contribution section.
 
 ## License ⚖️
 
