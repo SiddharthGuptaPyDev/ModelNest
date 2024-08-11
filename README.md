@@ -11,11 +11,14 @@ ModelNest is a powerful and user-friendly software that allows you to effortless
 - **Comprehensive Model Analysis**: Gain in-depth insights into the architecture, parameters, and quantization of your Ollama models.
 - **Interactive Visualizations**: Explore your models through stunning visualizations that bring the data to life.
 
+## Current version 🌟
+- **1.0.0-beta.1**: This is the most first release of the software, currently in beta. That's why it may have some bugs which will be fully fixed till reaching final release. Still the beta is way more powerful to use.
+
 ## Getting Started 💨
 
 1. **Download ModelNest**: Download the latest version of the ModelNest installer from the latest release.
 2. **Install ModelNest**: Start the installer for installing ModelNest.
-3. **Ready**: You're ready to go now! Launch the modelnest through the shortcut.
+3. **Ready**: You're ready to go now! Launch the Modelnest through the shortcut.
 
 ## Documentation 📖
 
