@@ -1,9 +1,10 @@
 # ModelNest 🥚
 
-ModelNest is a powerful and user-friendly software that allows you to effortlessly handle and analyze Ollama language models. With its intuitive interface and advanced features, ModelNest empowers researchers, developers, and enthusiasts to delve deep into the intricate details of their downloaded Ollama models.
+ModelNest is a powerful and user-friendly software that allows you to effortlessly handle and analyze Ollama language models through an amazing UI. With its intuitive interface and advanced features, ModelNest empowers researchers, developers, and enthusiasts to delve deep into the intricate details of their downloaded Ollama models.
 
 ## Features 🦾
 
+- **First time over the Internet**: It is the first Ollama model manager in GUI mode over the internet.
 - **Seamless Ollama List**: See your models' list seamlessly with heavy info.
 - **Easy Edit**: You can easily edit the Ollama environment by removing, and knowing the details of a model of Ollama.
 - **Developers' help**: Helps developers to get heavy details of a model for building their AI apps perfectly.
