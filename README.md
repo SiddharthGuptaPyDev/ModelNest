@@ -13,21 +13,21 @@ ModelNest is a powerful and user-friendly software that allows you to effortless
 - **Interactive Visualizations**: Explore your models through stunning visualizations that bring the data to life.
 
 ## Current version 🌟
-- **1.0.0-beta.1**: This is the most first release of the software, currently in beta. That's why it may have some bugs which will be fully fixed till reaching the final release. Still, the beta is way more powerful to use.
+- **1.0.0-beta.1**: This is the first release of the software, currently in beta. That's why it may have some bugs which will be fully fixed till reaching the final release. Still, the beta is way more powerful to use.
 
 ## Getting Started 💨
 
 1. **Download ModelNest**: Download the latest version of the ModelNest installer from the latest release.
-2. **Install ModelNest**: Start the installer for installing ModelNest.
+2. **Install ModelNest**: Start the installer to install ModelNest.
 3. **Ready**: You're ready to go now! Launch the Modelnest through the shortcut.
 
 ## Documentation 📖
 
-For detailed instructions and tutorials, please visit our comprehensive documentation at [docs.modelnest.com](https://docs.modelnest.com).
+For detailed instructions and tutorials, please visit our comprehensive documentation at [modelnest-docs.pages.dev](https://modelnest-docs.pages.dev/).
 
 ## Support 🚀
 
-Need help or have a question? Our dedicated community is here to assist you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through GitHub issues or [Discord server](https://discord.gg/SMJS2DNQ).
+Need help or have a question? We are dedicated to helping you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through GitHub issues or [Discord server](https://discord.gg/SMJS2DNQ).
 
 ## Contribute 🤝
 
