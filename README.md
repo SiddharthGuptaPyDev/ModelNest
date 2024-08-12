@@ -1,3 +1,4 @@
+![Banner Image](https://raw.githubusercontent.com/SiddharthGuptaPyDev/ModelNest/main/img-pack/modelnest-banner.jpg)
 # ModelNest 🥚
 
 ModelNest is a powerful and user-friendly software that allows you to effortlessly handle and analyze Ollama language models through an amazing UI. With its intuitive interface and advanced features, ModelNest empowers researchers, developers, and enthusiasts to delve deep into the intricate details of their downloaded Ollama models.
@@ -12,7 +13,7 @@ ModelNest is a powerful and user-friendly software that allows you to effortless
 - **Interactive Visualizations**: Explore your models through stunning visualizations that bring the data to life.
 
 ## Current version 🌟
-- **1.0.0-beta.1**: This is the most first release of the software, currently in beta. That's why it may have some bugs which will be fully fixed till reaching final release. Still the beta is way more powerful to use.
+- **1.0.0-beta.1**: This is the most first release of the software, currently in beta. That's why it may have some bugs which will be fully fixed till reaching the final release. Still, the beta is way more powerful to use.
 
 ## Getting Started 💨
 
@@ -26,7 +27,7 @@ For detailed instructions and tutorials, please visit our comprehensive document
 
 ## Support 🚀
 
-Need help or have a question? Our dedicated support team is here to assist you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through GitHub issues.
+Need help or have a question? Our dedicated community is here to assist you. You can reach us at [siddharthguptaindianboy@gmail.com](mailto:siddharthguptaindianboy@gmail.com) or through GitHub issues or [Discord server](https://discord.gg/SMJS2DNQ).
 
 ## Contribute 🤝
 
